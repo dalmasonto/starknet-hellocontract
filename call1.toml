@@ -1,0 +1,11 @@
+[[call]]
+call_type = "invoke"
+contract_address = "0x7e3fc427c2f085e7f8adeaec7501cacdfe6b350daef18d76755ddaa68b3b3f9"
+function = "increase_balance"
+inputs = ['0x4']
+
+[[call]]
+call_type = "invoke"
+contract_address = "0x7e3fc427c2f085e7f8adeaec7501cacdfe6b350daef18d76755ddaa68b3b3f9"
+function = "increase_balance"
+inputs = ['0x1']
